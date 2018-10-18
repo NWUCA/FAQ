@@ -14,25 +14,25 @@ Ipv6仅能在校园网网络下使用!翼讯不可以!手机热点不可以!
 
 使用ipv6之前需检测你的电脑有没有开启ipv6
 
-![](Image\校园网ipv6\e\40e\4d64398684e\f092117cd0add98f2.png)
+![](Image/校园网ipv6/e40e4d64398684ef092117cd0add98f2.png)
 
-![](Image\校园网ipv6\a1b2bd1c3495a98792d0880f33f67895.png)
+![](Image/校园网ipv6/a1b2bd1c3495a98792d0880f33f67895.png)
 
-![](Image\校园网ipv6\c54c0ffba366d2ffdfb34ce\a9a3dfb3e\.png)
+![](Image/校园网ipv6/c54c0ffba366d2ffdfb34cea9a3dfb3e.png)
 
-![](Image\校园网ipv6\baf2fb8495faf3695526da38726ad676.png)
+![](Image/校园网ipv6/baf2fb8495faf3695526da38726ad676.png)
 
-![](Image\校园网ipv6\507e\0fe\f24d330a07e\78f4cdf02590cd.png)
+![](Image/校园网ipv6/507e0fef24d330a07e78f4cdf02590cd.png)
 
-![](Image\校园网ipv6\a0a6b13be\e\af9d39c4659689a1b2a728.png)
+![](Image/校园网ipv6/a0a6b13beeaf9d39c4659689a1b2a728.png)
 
-这个,如果有√就不管,没有就勾上.,
+>   这个,如果有√就不管,没有就勾上.,
 
 这两步做完之后,我们就可以检测一下我们的ipv6有没有配置成功了
 
 打开浏览器访问<http://ipv6-te\st.com/>
 
-![](Image\校园网ipv6\3f27a9dc200b4b5e\3c06822cb1fd6023.png)
+![](Image/校园网ipv6/3f27a9dc200b4b5e3c06822cb1fd6023.png)
 
 >   如果ipv6那里说的是support,那就证明你做对了.
 
@@ -47,33 +47,34 @@ Ipv6仅能在校园网网络下使用!翼讯不可以!手机热点不可以!
 
 首先访问<https://github.com/le\nnylxx/ipv6-hosts>,
 
-点这个
+>   点这个
 
-![](Image\校园网ipv6\cbfa36df625b242b735e\e\aab09c02534.png)
+![](Image/校园网ipv6/cbfa36df625b242b735eeaab09c02534.png)
 
-点进去之后进入
+>   点进去之后进入
 
-![](Image\校园网ipv6\caa62e\4f3e\4a16e\b09b121c74f284320.png)
+![](Image/校园网ipv6/caa62e4f3e4a16eb09b121c74f284320.png)
 
-点击download,下载到你的电脑上.记住这个文件的位置
+>   点击download,下载到你的电脑上.记住这个文件的位置
 
-然后打开我的电脑,进入C:\\Windows\\Syste\m32\\drive\rs\\e\tc,可以直接把这个复制到我的电脑中的地址栏进入,
+然后打开我的电脑,进入C:\\Windows\\System32\\drivers\\etc,可以直接把这个复制到我的电脑中的地址栏进入,
 
-里面应该是这样的
+>   里面应该是这样的
 
-![](Image\校园网ipv6\0405c442fa2574f4ca4434d0f680fc45.png)
+![](Image/校园网ipv6/0405c442fa2574f4ca4434d0f680fc45.png)
 
-把你刚才下载的那个文件复制进去,会提示
+>   把你刚才下载的那个文件复制进去,会提示
 
-![](Image\校园网ipv6\19f6341d0d8cd5238aa63e\0148ce\bf47.png)
+![](Image/校园网ipv6/19f6341d0d8cd5238aa63e0148cebf47.png)
 
 选择替换目标中的文件
 
-有可能提示
+>   有可能提示
 
-![](Image\校园网ipv6\ce\642ab31044bae\7a0e\1ce\dca8027da3.png)
+![](Image/校园网ipv6/ce642ab31044bae7a0e1cedca8027da3.png)
 
-选择继续
+
+>   选择继续
 
 这样hosts就替换完成了
 

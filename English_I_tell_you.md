@@ -1,6 +1,6 @@
-#English,I tell you
-##Ideas for English Learning
-##有关英语学习的一点想法
+# English,I tell you
+## Ideas for English Learning
+## 有关英语学习的一点想法
 
 >'Come on, you are Chinese, why spending that much time learning English?
 >Maybe you can have a hang of it, you know, you don't hit it for buying 

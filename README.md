@@ -1,0 +1,2 @@
+# Norton's crazy idea
+
